@@ -18,7 +18,6 @@
 gapps_list_basic="
 AndroidAutoStub
 CalendarSync
-DigitalWellbeing
 MarkupGoogle
 SetupWizard
 SoundPickerGoogle"
@@ -96,10 +95,7 @@ priv-app/Phonesky
 priv-app/PrebuiltGmsCore
 priv-app/PrebuiltGmsCorePi
 priv-app/PrebuiltGmsCoreQt
-priv-app/SetupWizard
-priv-app/Wellbeing
-priv-app/WellbeingGooglePrebuilt
-priv-app/WellbeingPrebuilt"
+priv-app/SetupWizard"
 
 rm_list_full="
 app/AndroidAutoStubPrebuilt

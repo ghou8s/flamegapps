@@ -64,7 +64,6 @@ make_gapps() {
     mk_markup
     mk_setup
     mk_cal_sync
-    mk_wellbeing
     mk_sound_picker
     mk_android_auto_stub
     mk_pixel_config
