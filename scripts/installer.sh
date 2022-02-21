@@ -16,7 +16,6 @@
 ##
 # List of the basic edition gapps files
 gapps_list_basic="
-AndroidAutoStub
 CalendarSync
 MarkupGoogle
 SoundPickerGoogle"
@@ -47,7 +46,6 @@ PixelConfig"
 
 # List of pre-installed unnecessary files
 rm_list_basic="
-app/AndroidAutoStubPrebuilt
 app/ExtShared
 app/GoogleCalendarSyncAdapter
 app/GoogleContactsSyncAdapter
@@ -78,7 +76,6 @@ framework/com.google.android.maps.jar
 framework/com.google.android.media.effects.jar
 lib64/libsketchology_native.so
 overlay/forceQueryablePackagesOverlay.apk
-priv-app/AndroidAutoStubPrebuilt
 priv-app/AndroidMigratePrebuilt
 priv-app/AndroidPlatformServices
 priv-app/CarrierSetup
