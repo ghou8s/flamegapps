@@ -19,7 +19,6 @@ gapps_list_basic="
 AndroidAutoStub
 CalendarSync
 DigitalWellbeing
-GooglePackageInstaller
 MarkupGoogle
 SetupWizard
 SoundPickerGoogle"
@@ -91,7 +90,6 @@ priv-app/GmsCore
 priv-app/GmsCoreSetupPrebuilt
 priv-app/GoogleBackupTransport
 priv-app/GoogleExtServices
-priv-app/GooglePackageInstaller
 priv-app/GoogleRestore
 priv-app/GoogleServicesFramework
 priv-app/Phonesky

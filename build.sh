@@ -63,7 +63,6 @@ make_gapps() {
     mk_core
     mk_markup
     mk_setup
-    mk_package_installer
     mk_cal_sync
     mk_wellbeing
     mk_sound_picker
