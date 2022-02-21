@@ -19,7 +19,6 @@ gapps_list_basic="
 AndroidAutoStub
 CalendarSync
 MarkupGoogle
-SetupWizard
 SoundPickerGoogle"
 
 # List of the full edition gapps files
@@ -94,8 +93,7 @@ priv-app/GoogleServicesFramework
 priv-app/Phonesky
 priv-app/PrebuiltGmsCore
 priv-app/PrebuiltGmsCorePi
-priv-app/PrebuiltGmsCoreQt
-priv-app/SetupWizard"
+priv-app/PrebuiltGmsCoreQt"
 
 rm_list_full="
 app/AndroidAutoStubPrebuilt

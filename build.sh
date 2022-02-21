@@ -62,7 +62,6 @@ make_gapps() {
   if [ "$EDITION" = "basic" ]; then
     mk_core
     mk_markup
-    mk_setup
     mk_cal_sync
     mk_sound_picker
     mk_android_auto_stub
