@@ -62,13 +62,21 @@ make_gapps() {
   if [ "$EDITION" = "basic" ]; then
     mk_core
     mk_markup
+    mk_setup_wizard
+    mk_android_migrate
+    mk_google_restore
+    mk_backup_transport
+    mk_package_installer
     mk_cal_sync
     mk_sound_picker
     mk_pixel_config
   else
     mk_core
     mk_markup
-    mk_setup
+    mk_setup_wizard
+    mk_android_migrate
+    mk_google_restore
+    mk_backup_transport
     mk_package_installer
     mk_cal_sync
     mk_wellbeing
